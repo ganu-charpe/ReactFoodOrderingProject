@@ -1,0 +1,33 @@
+{
+  "name": "reactfoodorderingproject",
+  "version": "1.0.0",
+  "description": "This is Food ordering application build with React.",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganu-charpe/ReactFoodOrderingProject.git"
+  },
+  "keywords": [],
+  "author": "Ganesh Charpe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganu-charpe/ReactFoodOrderingProject/issues"
+  },
+  "homepage": "https://github.com/ganu-charpe/ReactFoodOrderingProject#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
